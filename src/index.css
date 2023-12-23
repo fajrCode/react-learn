@@ -40,18 +40,20 @@ h3 {
 }
 
 button {
-  border-radius: 8px;
+  margin-left: 5px;
+  border-radius: 3px;
   border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
+  padding: 0.3em 1em;
+  font-size: 0.7em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #4f4c4c;
   cursor: pointer;
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  color: #242424;
+  background-color: #ffffff;
 }
 button:focus,
 button:focus-visible {
